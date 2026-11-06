@@ -3,3 +3,4 @@
 Строка 3 feature-a main
 Строка 4
 Строка 5 feature-b
+Строка 6 feature-a-b
