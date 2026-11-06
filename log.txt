@@ -1,0 +1,42 @@
+*   commit 616a736725fc244931bd48c39392c08e57236960 (HEAD -> main, origin/main)
+|\  Merge: 729f6a6 2c9b076
+| | Author: Grigoriy Ermakov <grigoriygrigoriy06@gmail.com>
+| | Date:   Fri Nov 6 23:01:14 2026 +0300
+| | 
+| |     Merge feature-b into main and resolve conflict
+| | 
+| * commit 2c9b076c3a655d24fb1f3da372e51c3a0c0c8d6a
+| | Author: Grigoriy Ermakov <grigoriygrigoriy06@gmail.com>
+| | Date:   Fri Nov 6 22:57:07 2026 +0300
+| | 
+| |     feature-b: change third line
+| | 
+* | commit 729f6a6f0873cac02074f6806fcfe4ae4346c401
+|/  Author: Grigoriy Ermakov <grigoriygrigoriy06@gmail.com>
+|   Date:   Fri Nov 6 22:55:58 2026 +0300
+|   
+|       main: change third line
+| 
+* commit ffb937ceb1a1aedf737ca249f4e3c4a6f1f70a81
+| Author: Grigoriy Ermakov <grigoriygrigoriy06@gmail.com>
+| Date:   Fri Nov 6 22:29:38 2026 +0300
+| 
+|     :wqfeature-b: add alternative third line
+| 
+* commit 00dc3f1b297ec192ad6d4ebc6af4d3d79bf7f4fc
+| Author: Grigoriy Ermakov <grigoriygrigoriy06@gmail.com>
+| Date:   Fri Nov 6 22:27:34 2026 +0300
+| 
+|     feature-a: add fourth line
+| 
+* commit bc5093f47dda1673a9f1e840a9dd8e138037a658
+| Author: Grigoriy Ermakov <grigoriygrigoriy06@gmail.com>
+| Date:   Fri Nov 6 22:26:59 2026 +0300
+| 
+|     feature-a: add third line
+| 
+* commit e6c87ee60c3ff4d784921b0e12e8a3d9309d34f8
+  Author: Grigoriy Ermakov <grigoriygrigoriy06@gmail.com>
+  Date:   Fri Nov 6 22:21:44 2026 +0300
+  
+      Initial commit
